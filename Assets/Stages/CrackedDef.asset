@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -794597441, guid: 951ce57ad999ac1f040a4dceb5f8b763, type: 3}
+  m_Name: CrackedDef
+  m_EditorClassIdentifier: 
+  sceneAddress:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+  baseSceneNameOverride: crackedtest
+  sceneType: 2
+  isOfflineScene: 0
+  stageOrder: 0
+  requiredExpansion: {fileID: 0}
+  nameToken: guh_name
+  subtitleToken: guh_def
+  previewTexture: {fileID: 2800000, guid: 8bc445bb79654bf496c92d0407840a92, type: 3}
+  portalMaterial: {fileID: 2100000, guid: 9be3a987bedabdc009828ce90f732ea1, type: 2}
+  portalSelectionMessageString: guh_str
+  shouldIncludeInLogbook: 1
+  loreToken: guh_lore
+  dioramaPrefab: {fileID: 8412730696857636899, guid: de9828e1cbf0c1dbfaaedb44f7943914,
+    type: 3}
+  mainTrack: {fileID: 0}
+  bossTrack: {fileID: 0}
+  suppressPlayerEntry: 0
+  suppressNpcEntry: 0
+  blockOrbitalSkills: 0
+  validForRandomSelection: 1
+  destinationsGroup: {fileID: 0}
+  destinations: []
+  preferredPortalPrefab: {fileID: 6630180943233996913, guid: 691837ac1e874cb45923297bb14f1b5d,
+    type: 3}

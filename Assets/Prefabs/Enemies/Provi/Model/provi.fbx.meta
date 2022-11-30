@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 3bcaeb7d691e2703088416563560b545
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -5669740592792570897
+    second: Armature.004|Armature.004Action
+  - first:
+      74: -3576902489572334116
+    second: Armature.004|CameraAction
+  - first:
+      74: -4909122113433231722
+    second: Armature.004|Cube.016Action
+  - first:
+      74: 5837219306553379064
+    second: Armature.004|Shader NodetreeAction.001
+  - first:
+      74: 7377245582114237193
+    second: Armature.004|Shader NodetreeAction.002
+  - first:
+      74: 5062690823123913511
+    second: Armature.004|Shader NodetreeAction.003
+  - first:
+      74: 411927367597339996
+    second: Armature.004|Shader NodetreeAction.004
+  - first:
+      74: -3299178882980226264
+    second: Cylinder|CameraAction
+  - first:
+      74: -2747887050375365200
+    second: Cylinder|Cube.016Action
+  - first:
+      74: 2193181345042543398
+    second: Cylinder|Shader NodetreeAction.001
+  - first:
+      74: 5457968995836183800
+    second: Cylinder|Shader NodetreeAction.002
+  - first:
+      74: 3074141344348089653
+    second: Cylinder|Shader NodetreeAction.003
+  - first:
+      74: 1369338686747323697
+    second: Cylinder|Shader NodetreeAction.004
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold
+    second: {fileID: 2100000, guid: 0ef4e8b16ebd8f8d3b4a3c72a49b3864, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ProviSkin
+    second: {fileID: 2100000, guid: 0ef4e8b16ebd8f8d3b4a3c72a49b3864, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Providence
+    second: {fileID: 2100000, guid: 0ef4e8b16ebd8f8d3b4a3c72a49b3864, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Toon_Vert.001
+    second: {fileID: 2100000, guid: 0ef4e8b16ebd8f8d3b4a3c72a49b3864, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

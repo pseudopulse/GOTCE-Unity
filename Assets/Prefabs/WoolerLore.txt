@@ -1,0 +1,289 @@
+	A	B	C	D	E	F	G	H	I
+1
+	ITEMS:	RATING	EFFECT	COMMENTS					
+2
+	Armor-Piercing Rounds	A	Deal an additional 20% damage (+20% per stack) to bosses.	Great for the final boss.					
+3
+	Backup Magazine	A	Add +1 (+1 per stack) charge of your Secondary skill.	Not as good on Engineer & REX (charge-based secondaries. REX's CD is VERY low)					
+4
+	Bison Steak	C	Increases maximum health by 25 (+25 per stack).						
+5
+	Bundle of Fireworks	C	Opening a chest launches 8 (+4 per stack) fireworks that deal 300% base damage.	Can get tons of them and cheese but not likely.					
+6
+	Bustling Fungus	C	After standing still for 1 second, create a zone that heals for 4.5% (+2.25% per stack) of your health every second to all allies within 3m (+1.5m per stack).	*S on Engineer.					
+7
+	Cautious Slug	B	Increases base health regeneration by +4 (+4 per stack) per second while outside of combat.	Better early-on but falls off.					
+8
+	Crowbar	C	Deal +75% (+75% per stack) damage to enemies above 90% health.						
+9
+	Delicate Watch	S*	Increase damage by 20% (+20% per stack). Taking damage to below 25% health breaks this item.	*don't break them lol					
+10
+	Energy Drink	A	Sprint speed is improved by 25% (+25% per stack).						
+11
+	Focus Crystal	C	Increase damage to enemies within 13m by 20% (+20% per stack).	*A on melee.					
+12
+	Gasoline	B	Killing an enemy ignites all enemies within 12m (+4m per stack) for 150% base damage. Additionally, enemies burn for 150% (+75% per stack) base damage.	Good early-game AoE.					
+13
+	Lens-Maker's Glasses	S	Your attacks have a 10% (+10% per stack) chance to 'Critically Strike', dealing double damage.	Essentially 10% more dmg for EVERYTHING.					
+14
+	Medkit	A	Heal for 20 + 5% of maximum health (+5% of maximum health per stack) 1.1 seconds after getting hurt.						
+15
+	Mocha	A	Increases attack speed by 7.5% (+7.5 per stack) and movement speed by 7% (+7% per stack).						
+16
+	Monster Tooth	B	Killing an enemy spawns a healing orb that heals for 8 + 2% (+2% per stack) maximum health.						
+17
+	Oddly-shaped Opal	A	Increase armor by 100 (+100 per stack) while out of danger.	Functions the same as Cautious Slug.					
+18
+	Paul's Goat Hoof	S	Increases movement speed by 14% (+14% per stack).						
+19
+	
+Personal Shield Generator
+	C	Gain an 8% (+8% per stack) health shield. Recharges outside of danger.						
+20
+	Power Elixir	B	Taking damage to below 25% health consumes this item, healing you for 75% of maximum health.						
+21
+	Repulsion Armor Plate	B	Reduce all incoming damage by 5 (+5 per stack). Cannot be reduced below 1.	Great for damage-over-time.					
+22
+	Roll of Pennies	C	Gain 3 (+3 per stack) gold on taking damage from an enemy. Scales over time.						
+23
+	Rusted Key	B	A hidden cache containing an item (80% green /20% red) will appear in a random location on each stage. Opening the cache consumes this item.	Lockbox can be hard to find at times.					
+24
+	Soldier's Syringe	A	Increases attack speed by 15% (+15% per stack).						
+25
+	Sticky Bomb	B	5% (+5% per stack) chance on hit to attach a bomb to an enemy, detonating for 180% damage.						
+26
+	Stun Grenade	C	5% (+5% on stack) chance on hit to stun enemies for 2 seconds.						
+27
+	Topaz Brooch	A	Gain a temporary barrier on kill for 15 health (+15 per stack).						
+28
+	Tougher Times	S	15% (+15% per stack) chance to block incoming damage. Unaffected by luck.	Scales hyperbollicaly. 10 bears = 60% block (sweet-spot for printing.)					
+29
+	Tri-Tip Dagger	A	10% (+10% per stack) chance to bleed an enemy for 240% base damage.	Bleeds stack INFINTELY & refresh ALL STACKS in duration whenever new is applied.					
+30
+	War Banner	C	On level up drop a banner that strengthens all allies within 16m (+8m per stack). Raise attack and movement speed by 30%.	Also drops on TP activation.					
+31
+	AtG Missile Mk. 1	S	10% chance to fire a missile that deals 300% (+300% per stack) damage.	Best on-hit in the game.					
+32
+	Bandolier	C	18% (+10% per stack) chance on kill to drop an ammo pack that resets all cooldowns.						
+33
+	Berzerker's Pauldron	B	Killing 3 enemies within 1 second sends you into a frenzy for 6s (+4s per stack). Increases movement speed by 50% and attack speed by 100%.						
+34
+	Chronobauble	C*	Slow enemies on hit for -60% movement speed for 2s (+2s per stack).	*Getting ONE stack for Death Mark is all you need.					
+35
+	Death Mark	A	Enemies with 4 or more debuffs are marked for death, increasing damage taken by 50% (+50% per stack) from all sources for 7 seconds.						
+36
+	Fuel Cell	A	Hold an additional equipment charge (+1 per stack). Reduce equipment cooldown by 15% (+15% per stack).						
+37
+	Ghor's Tome	A	4% (+4% on stack) chance on kill to drop a treasure worth $25. Scales over time.	Will ALWAYS grant gold equal to a regular chest on that stage.					
+38
+	Harvester's Scythe	S	Gain 5% critical chance (one-time ONLY!) Critical strikes heal for 8 (+4 per stack) health.						
+39
+	Hopoo Feather	S	Gain +1 (+1 per stack) maximum jump count.						
+40
+	Hunter's Harpoon	B	Killing an enemy increases movement speed by 125%, fading over 1 (+0.5 per stack) seconds.						
+41
+	Ignition Tank	C	Ignite effects deal +300% (+300% per stack) more damage over time.						
+42
+	Infusion	B*	Killing an enemy increases your health permanently by 1 (+1 per stack), up to a maximum of 100 (+100 per stack) health.	*D for the Engineer (turrets can take the stacks from you.)					
+43
+	Kjaro's Band	A	Hits that deal more than 400% damage also blasts enemies with a runic flame tornado, dealing 300% (+300% per stack) TOTAL damage over time. Recharges every 10 seconds.	
+Procs if BASE damage of hit is 400%+ (crits, crowbars, ap-rounds, etc do NOT modify BASE amount!)
+					
+44
+	Leeching Seed	C	Dealing damage heals you for 1 (+1 per stack) health.						
+45
+	Lepton Daisy	D	Release a healing nova during the Teleporter event, healing all nearby allies for 50% of their maximum health. Occurs 1 (+1 per stack) times.	Always procs at even intervals (i.e: 1 stack = at 50% TP charge; 2 stacks = at 33% & 67% charge)					
+46
+	Old Guillotine	A	Instantly kill Elite monsters below 13%(+13% per stack) health.	Hyperbolic scaling (can never truly get to 100%.)					
+47
+	Old War Stealthkit	C	Chance on taking damage to gain 40% movement speed and invisibility for 3s (+1.5s per stack). Chance increases the more damage you take.	Synergizes well with REX (self-damage procs it.)					
+48
+	Predatory Instincts	A	Critical strikes increase attack speed by 10%. Maximum cap of 30% (+30% per stack) attack speed. Note: Also increases Critical Strike Chance by 5% (one-time ONLY!)						
+49
+	Razorwire	B	Getting hit causes you to explode in a burst of razors, dealing 160% damage. Hits up to 5 (+2 per stack) targets in a 25m (+10m per stack) radius						
+50
+	Red Whip	C	Leaving combat boosts your movement speed by 30% (+30% per stack).						
+51
+	Regenerating Scrap	A	Does nothing. Prioritized when used with Uncommon 3D Printers. At the start of each stage, it regenerates.						
+52
+	Rose Buckler	C	Increase armor by 30(+30 per stack) while sprinting.	Tough to maintain on survivors that can't sprint & attack.					
+53
+	Runald's Band	S	
+Hits that deal more than 400% damage also blasts enemies with a runic ice blast, slowing them by 80% for 3s (+3s per stack) and dealing 250% (+250% per stack) TOTAL damage. Recharges every 10 seconds.
+	
+Procs if BASE damage of hit is 400%+ (crits, crowbars, ap-rounds, etc do NOT modify BASE amount!)
+					
+54
+	Shipping Request Form	S	A delivery containing 2 items (79%/20%/1%) will appear in a random location on each stage. (Increases rarity chances of the items per stack)						
+55
+	Shuriken	S	Activating your Primary skill also throws a shuriken that deals 400% (+100% per stack) base damage. You can hold up to 3 (+1 per stack) shurikens which all reload over 10 seconds.						
+56
+	Squid Polyp	D	Activating an interactable summons a Squid Turret that attacks nearby enemies at 100% (+100% per stack) attack speed. Lasts 30 seconds.	The turrets' health decays over time.					
+57
+	Ukulele	S	25% chance to fire chain lighting for 80% damage on up to 3 (+2 per stack) targets within 20m (+2m per stack).	Essential item in proc-chaining.					
+58
+	War Horn	B	Activating your Equipment gives you +70% attack speed for 8s (+4s per stack).						
+59
+	Wax Quail	S*	Jumping while sprinting boosts you forward by 10m (+10m per stack).	*STOP AT 3 STACKS!					
+60
+	Will-o'-the-wisp	S	On killing an enemy, spawn a lava pillar in a 12m (+2.4m per stack) radius for 350% (+280% per stack) base damage.	Essential for on-kill chains & you don't need a lot of stacks.					
+61
+	57 Leaf Clover	S (BEST ITEM IN GAME)	All random effects are rolled +1 (+1 per stack) times for a favorable outcome.	Re-rolls any NON-LOOT-BASED chance (no effect on shrine outcomes / chest loot, etc.)					
+62
+	Aegis	D*	Healing past full grants you a temporary barrier for 50% (+50% per stack) of the amount you healed.	*Topaz Brooches do what it does but better.					
+63
+	Alien Head	B	Reduce skill cooldowns by 25% (+25% per stack).						
+64
+	Ben's Raincoat	C	Prevents 1 (+1 per stack) debuff and instead grants a temporary barrier for 10% of maximum health. Recharges every 5 seconds.	Does NOT affect bands cooldown / freeze.					
+65
+	Bottled Chaos	B	Trigger a random equipment effect 1 (+1 per stack) time(s).	Will activate on spending $$ with Executive Card.					
+66
+	Brainstalks	A	Upon killing an elite monster, enter a frenzy for 4s (+4s per stack) where skills have no cooldowns.	Charge-based abilities do NOT recover instantly.					
+67
+	Brilliant Behemoth	S	All your attacks explode in a 4m (+1.5m per stack) radius for a bonus 60% damage to nearby enemies.	Does NOT proc on hits with a 0 proc-coefficient (i.e: Kjaro's band / sticky bombs.)					
+68
+	Ceremonial Dagger	B	Killing an enemy fires out 3 homing daggers that deal 150% (+150% per stack) base damage.	"Win-more" item (need a good run to get most use)					
+69
+	Dio's Best Friend	C*	Upon death, this item will be consumed and you will return to life with 3 seconds of invulnerability.	*A on Engineer (turrets revive.)					
+70
+	Frost Relic	B	Killing an enemy surrounds you with an ice storm that deals 600% damage per second. The storm grows with every kill, increasing its radius by 1m. Stacks up to 6m (+6m per stack).						
+71
+	H3AD-5T v2	A	Increase jump height. Creates a 5m-100m radius kinetic explosion on hitting the ground, dealing 1000%-10000% base damage that scales up with speed. Recharges in 10 (-50% per stack) seconds.	Higher you go, more sluggish you feel.					
+72
+	Happiest Mask	C	Killing enemies has a 7% chance to spawn a ghost of the killed enemy with 1500% damage. Lasts 30s (+30s per stack).						
+73
+	Hardlight Afterburner	A*	Add +2 (+2 per stack) charges of your Utility skill. Reduces Utility skill cooldown by 33%.	*S on Loader & Captain.					
+74
+	Interstellar Desk Plant	C	On kill, spawns a plant after 5 seconds. Heals for 10% maximum health per second to all allies within 5m (+5m per stack.) Lasts 10 seconds.						
+75
+	Laser Scope	A	Critical Strikes deal an additional 100% damage (+100% per stack).						
+76
+	N'Kuhana's Opinion	C	Store 100% (+100% per stack) of healing as Soul Energy. After your Soul Energy reaches 10% of your maximum health, fire a skull that deals 250% of your Soul Energy as damage.						
+77
+	Pocket I.C.B.M	S	All missile items and equipment fire an additional 2 missiles. Increase missile damage by 0% (+50% per stack)						
+78
+	Rejuvenation Rack	A	Heal +100% (+100% per stack) more.						
+79
+	Resonance Disk	A 	
+Charges by killing enemies, then fires automatically dealing 300% (+300% per stack) in a line, explodes for 1000% (+1000% per stack), and returns dealing 300% (+300% per stack) in a line.
+						
+80
+	Sentient Meat Hook	S	20% (+20% per stack) chance on hit to fire homing hooks at up to 10 (+5 per stack) enemies for 100% damage.						
+81
+	Shattering Justice	S	After hitting an enemy 5 times, reduce their armor by 60 for 8 (+8 per stack) seconds.						
+82
+	Soulbound Catalyst	A	Kills reduce equipment cooldown by 4s (+2s per stack).						
+83
+	Spare Drone Parts	C	
+Gain Col. Droneman. Drones gain +50% (+50% per stack) attack speed and cooldown reduction. Drones gain 10% chance to fire a missile on hit, dealing 300% TOTAL damage. Drones gain an automatic chain gun that deals 6x100% damage, bouncing to 2 enemies.
+	You want your allies to tank, not deal damage.					
+84
+	Symbiotic Scorpion	S	100% chance on hit to reduce armor by 2 (+2 per stack) permanently.						
+85
+	Unstable Tesla Coil	S	Fire out lightning that hits 3 (+3 per stack) enemies for 200% base damage every 0.5 seconds. The Tesla Coil switches off every 10 seconds.	Great for wiping low-threat mobs; not as effective vs. bosses / tanky enemies.					
+86
+	Wake of Vultures	C	Gain the power of any killed elite monster for 8s (+5s per stack).	Elite affixes are too weak.					
+87
+	Charged Perforator	S	10% chance on hit to down a lightning strike, dealing 500% (+500% per stack) damage.	Gained from Overloading Worm TP event.					
+88
+	Defense Nucleus	C	Killing elite monsters spawns an Alpha Construct. Limited to 4 (+4 per stack).	Gained from Xi Construct TP event.					
+89
+	Empathy Cores	C	Every 30 seconds, summon two Solus Probes that gain +100% (+100% per stack) damage per ally on your team.	Max 2 probes. Gained from Solus Control Unit TP event.					
+90
+	Genesis Loop	C	Falling below 25% health causes you to explode, dealing 6000% base damage. Recharges every 30 seconds (-50% per stack).	Gained from Wandering Vagrant TP event.					
+91
+	Halcyon Seed	C	Summon Aurelionite during the teleporter event. It has 100% (+50% per stack) damage and 100% (+100% per stack) health.	Gained from Aurelonite in the Gilded Coast (gold portal.) 100% drop rate per party member.					
+92
+	Irradiant Pearl*	A	Increases ALL stats by 10% (+10% per stack).	*NOT boss-loot. Gained from Cleansing Pools (20% chance.)					
+93
+	Little Disciple	A	Fire a tracking wisp for 300% (+300% per stack) damage. Fires every 0.5 seconds while sprinting.	Gained from Grovetender TP event. Fires faster with more movespeed.					
+94
+	Mired Urn	A	While in combat, the nearest 1 (+1 per stack) characters to you within 13m will be 'tethered' to you, dealing 100% damage per second, applying tar, and healing you for 100% of the damage dealt.	Gained from Clay Dunestrider TP event.					
+95
+	Molten Perforator	A	10% chance on hit to call forth 3 magma balls from an enemy, dealing 300% (+300% per stack) damage each.	Gained from Magma Worm TP event.					
+96
+	Pearl*	D	Increases maximum health by 10% (+10% per stack).	*NOT boss-loot. Gained from Cleansing Pools (96% chance.)					
+97
+	Planula	C	Heal from incoming damage for 15 (+15 per stack).	Gained from Grandparent TP event. Works on ANY damage (not Void-Fields.)					
+98
+	Queen's Gland	D	Every 30 seconds, summon a Beetle Guard with bonus 300% damage and 100% health. Can have up to 1 (+1 per stack) Guards at a time.	Gained from Beetle Queen TP event.					
+99
+	Shatterspleen	S	
+Critical Strikes bleed enemies for 240% base damage. Bleeding enemies explode on death for 400% (+400% per stack) damage, plus an additional 15% (+15% per stack) of their maximum health.
+	Gained from Imp Overlord TP event.					
+100
+	Titanic Knurl	C	Increase maximum health by 40 (+40 per stack) and health regeneration by 1.6 (+1.6 per stack) health / second.	Gained from Stone Titan TP event.					
+101
+	Beads of Fealty	A	Grants access to a secret bossfight when obliterating.	Twisted Scavengers scale FAST (like Aurelonite & Alloy.) TAKE CAUTION!					
+102
+	Brittle Crown	B	30% chance on hit to gain 2 (+2 per stack) gold. Scales over time. Lose gold on taking damage equal to 100% (+100% per stack) of the maximum HP % you lost.	Make better use of it on high-mobility survivors.					
+103
+	Corpsebloom	D*	Heal +100% (+100% per stack) more. All healing is applied over time. Can heal for a maximum of 10% (reduced by 50% per stack) of your health per second.	Powerful early-on. 10% of max hp/sec cap is VERY bad the farther your run goes.					
+104
+	Defiant Gouge	B	Using a Shrine summons enemies (stronger per stack) nearby. Scales over time.	Spawns from ANY shrine activation (mountain, combat, blood, chance, etc.)					
+105
+	Egocentrism	S	
+Every 3 (-50% per stack) seconds, gain an orbiting bomb that detonates on impact for 360% damage, up to a maximum of 3 bombs (+1 per stack). Every 60 seconds, a random item is converted into this item.
+	You'll have a red-item-only run but it's worth.					
+106
+	Essence of Heresy	A	
+Dealing damage adds a stack of Ruin for 10 (+10 per stack) seconds. Activating the skill detonates all Ruin stacks at unlimited range, dealing 300% damage plus 120% damage per stack of Ruin. Recharges after 8 (+8 per stack) seconds.
+	Replaces your Special skill.					
+107
+	Eulogy Zero	C	Items have a 5% (+5% per stack) chance to become a Lunar item instead.						
+108
+	Focused Convergence	A	Teleporters charge 30% (+30% per stack) faster, but the size of the Teleporter zone is 50% (-50% per stack) smaller.	Stacks lineraly & caps at 45 second-reduced TP charge (3 stacks - going past 3 does NOTHING!)					
+109
+	Gesture of the Drowned	S	Reduce Equipment cooldown by 50% (+15% per stack). Forces your Equipment to activate whenever it is off cooldown.	Little to no downside with the automatic activation for VAST majority of equipment.					
+110
+	Hooks of Heresy	A	
+Charge up a projectile that deals 175% damage per second to nearby enemies, exploding after 3 seconds to deal 700% damage and root enemies for 3 (+3 per stack) seconds. Recharges after 5 (+5 per stack) seconds.
+	Replaces your Secondary skill.					
+111
+	Light Flux Pauldron	C	Decrease skill cooldowns by 50% (+50% per stack). Decrease attack speed by 50% (+50% per stack).	MULTIPLICATIVE (halves each stat!)					
+112
+	Mercurial Rachis	C	Creates a Ward of Power in a random location nearby that buffs both enemies and allies within 16m (+50% per stack), causing them to deal +50% damage.	Location it's thrown is completely random.					
+113
+	Purity	D*	Reduce your skill cooldowns by 2 seconds. You are unlucky.	Can be very powerful in some scenarios. Completely butchers your run in others.					
+114
+	Shaped Glass	C*	Increase base damage by 100% (+100% per stack). Reduce maximum health by 50% (+50% per stack).	Removes your one-shot protection entirely.					
+115
+	Stone Flux Pauldron	D	Increase max health by 100% (+100% per stack). Reduce movement speed by 50% (+50% per stack).	MULTIPLICATIVE (halves each stat!)					
+116
+	Strides of Heresy	C	Fade away, becoming intangible and gaining +30% movement speed. Heal for 25% (+25% per stack) of your maximum health. Lasts 3 (+3 per stack) seconds.	Replaces your Utility skill.					
+117
+	Transcendence	C	Convert all but 1 health into regenerating shields. Gain 50% (+25% per stack) maximum health.	Works great with HP-stacking builds. However, not being able to leech is a BIG tradeoff. 					
+118
+	Visions of Heresy	C	Fire a flurry of tracking shards that detonate after a delay, dealing 120% base damage. Hold up to 12 charges (+12 per stack) that reload after 2 seconds (+2 per stack).	Replaces your Primary skill. Most survivors' primary attacks are better.					
+119
+	BenTHICC Bloom	C	Upgrades 3 (+3 per stack) random items to items of the next higher rarity at the start of each stage. Corrupts all 57 Leaf Clovers.						
+120
+	Encrusted Key	A	A hidden cache containing an item (60%/30%/10%) will appear in a random location on each stage. Opening the cache consumes this item. Corrupts all Rusted Keys.						
+121
+	Lost-Seer's Lenses	S	Your attacks have a 0.5% (+0.5% per stack) chance to instantly kill a non-Boss enemy. Corrupts all Lens-Maker's Glasses.						
+122
+	Lysate Cell	A	Add +1 (+1 per stack) charge of your Special skill. Reduces Special skill cooldown by 33%. Corrupts all Fuel Cells.						
+123
+	Needletick	A	10% (+10% per stack) chance to collapse an enemy for 400% base damage. Corrupts all Tri-Tip Daggers.						
+124
+	Newly-Hatced Zoea	A	Every 60 (-50% per stack) seconds, gain a random Void ally. Can have up to 1 (+1 per stack) allies at a time. Corrupts all yellow items.						
+125
+	Plasma Shrimp	S	
+Gain a shield equal to 10% of your maximum health. While you have a shield, hitting an enemy fires a missile that deals 40% (+40% per stack) TOTAL damage. Corrupts all AtG Missile Mk. 1s.
+						
+126
+	Pluripotent Larva	S	Upon death, this item will be consumed and you will return to life with 3 seconds of invulnerability, and all of your items that can be corrupted will be. Corrupts all Dio's Best Friends.						
+127
+	Polylute	S	25% chance to fire lightning for 60% TOTAL damage up to 3 (+3 per stack) times. Corrupts all Ukuleles.						
+128
+	Safer Spaces	A	Blocks incoming damage once. Recharges after 15 seconds (-10% per stack) Corrupts all Tougher Times.						
+129
+	Singularity Band	A	
+Hits that deal more than 400% damage also fire a black hole that draws enemies within 15m into its center. Lasts 5 seconds before collapsing, dealing 100% (+100% per stack) TOTAL damage. Recharges every 20 seconds. Corrupts all Runald's and Kjaro's Bands.
+						
+130
+	Tentabauble	B	5% (+5% per stack) chance on hit to root enemies for 1s (+1s per stack). Corrupts all Chronobaubles.						
+131
+	Voidsent Flame	B	Upon hitting an enemy at full health, spawn a lava pillar in a 12m (+2.4m per stack) radius for 260% (+156% per stack) base damage. Corrupts all Will-o'-the-wisps.						
+132
+	Weeping Fungus	S	Heals for 2% (+2% per stack) of your health every second while sprinting. Corrupts all Bustling Fungi.
