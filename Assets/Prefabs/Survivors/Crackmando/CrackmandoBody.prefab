@@ -1,5 +1,35 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &37720245529994810
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7390524531136079503}
+  m_Layer: 0
+  m_Name: RotateObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7390524531136079503
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 37720245529994810}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3829867929567954904}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &218052071057673823
 GameObject:
   m_ObjectHideFlags: 0
@@ -1943,6 +1973,7 @@ Transform:
   m_Children:
   - {fileID: 3829867929171758861}
   - {fileID: 3818488098549139564}
+  - {fileID: 7390524531136079503}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2138,10 +2169,10 @@ CapsuleCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  m_Radius: 0.641997
-  m_Height: 1.469068
+  m_Radius: 0.2201097
+  m_Height: 1.8103609
   m_Direction: 1
-  m_Center: {x: -0.034477115, y: 1.2671163, z: 0.099599004}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!54 &3829867929567954906
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2173,8 +2204,8 @@ MonoBehaviour:
   CharacterController: {fileID: 3829867929567954903}
   Capsule: {fileID: 6007349499992085719}
   Rigidbody: {fileID: 3829867929567954906}
-  CapsuleRadius: 0.641997
-  CapsuleHeight: 1.469068
+  CapsuleRadius: 0.2201097
+  CapsuleHeight: 1.810361
   CapsuleYOffset: 0
   CapsulePhysicsMaterial: {fileID: 0}
   DetectDiscreteCollisions: 0
@@ -4662,7 +4693,7 @@ PrefabInstance:
     - target: {fileID: 1546344077076554420, guid: ad1213667368efbf88c1675c73a061bb,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -0.592
       objectReference: {fileID: 0}
     - target: {fileID: 1546344077076554420, guid: ad1213667368efbf88c1675c73a061bb,
         type: 3}
