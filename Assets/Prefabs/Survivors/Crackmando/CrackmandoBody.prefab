@@ -440,6 +440,7 @@ GameObject:
   m_Component:
   - component: {fileID: 668471473627348200}
   - component: {fileID: 7298238030901814585}
+  - component: {fileID: 6893166105204006463}
   m_Layer: 0
   m_Name: CrackedMandoMesh
   m_TagString: Untagged
@@ -585,6 +586,20 @@ SkinnedMeshRenderer:
     m_Center: {x: 0.00019476982, y: 0.0040362896, z: -0.011522592}
     m_Extent: {x: 0.005740785, y: 0.0057503013, z: 0.009782524}
   m_DirtyAABB: 0
+--- !u!64 &6893166105204006463
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1347845053943772088}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 1502738292356309160, guid: 6386bdd330e44b81f92bf3acedce3334, type: 3}
 --- !u!1 &1493809400036035131
 GameObject:
   m_ObjectHideFlags: 0
@@ -841,19 +856,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   inputBank: {fileID: 3829867929567954912}
   directionComponent: {fileID: 3829867929567954900}
-  pitchRangeMin: -90
-  pitchRangeMax: 90
-  yawRangeMin: -90
-  yawRangeMax: 90
-  pitchGiveupRange: 0
-  yawGiveupRange: 0
-  giveupDuration: 1
+  pitchRangeMin: -60
+  pitchRangeMax: 60
+  yawRangeMin: -60
+  yawRangeMax: 60
+  pitchGiveupRange: 30
+  yawGiveupRange: 10
+  giveupDuration: 3
   raisedApproachSpeed: 720
   loweredApproachSpeed: 360
   smoothTime: 0.1
-  fullYaw: 1
+  fullYaw: 0
   aimType: 0
-  enableAimWeight: 1
+  enableAimWeight: 0
   UseTransformedAimVector: 0
 --- !u!114 &7957985220461491027
 MonoBehaviour:
@@ -1617,6 +1632,7 @@ GameObject:
   m_Component:
   - component: {fileID: 226866037499101171}
   - component: {fileID: 7559140189512527131}
+  - component: {fileID: 3656605027841428337}
   m_Layer: 0
   m_Name: CrackedMandoArm
   m_TagString: Untagged
@@ -1762,6 +1778,20 @@ SkinnedMeshRenderer:
     m_Center: {x: -0.000037770253, y: 0.0023554652, z: -0.014678095}
     m_Extent: {x: 0.010689493, y: 0.007854497, z: 0.007159639}
   m_DirtyAABB: 0
+--- !u!64 &3656605027841428337
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3696967199241122653}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -7868150288044431762, guid: 6386bdd330e44b81f92bf3acedce3334, type: 3}
 --- !u!1 &3709147518672801768
 GameObject:
   m_ObjectHideFlags: 0
@@ -2169,10 +2199,10 @@ CapsuleCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  m_Radius: 0.2201097
-  m_Height: 1.8103609
+  m_Radius: 0
+  m_Height: 0.010458231
   m_Direction: 1
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Center: {x: -0.027289629, y: 0.54503834, z: -0.24739933}
 --- !u!54 &3829867929567954906
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2204,8 +2234,8 @@ MonoBehaviour:
   CharacterController: {fileID: 3829867929567954903}
   Capsule: {fileID: 6007349499992085719}
   Rigidbody: {fileID: 3829867929567954906}
-  CapsuleRadius: 0.2201097
-  CapsuleHeight: 1.810361
+  CapsuleRadius: 0
+  CapsuleHeight: 0.01045823
   CapsuleYOffset: 0
   CapsulePhysicsMaterial: {fileID: 0}
   DetectDiscreteCollisions: 0
