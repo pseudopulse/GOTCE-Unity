@@ -687,7 +687,7 @@ Animator:
   m_GameObject: {fileID: 1667106739223374692}
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: 6386bdd330e44b81f92bf3acedce3334, type: 3}
-  m_Controller: {fileID: 9100000, guid: 6ae9e2532818f639d9f8dde6e584376e, type: 2}
+  m_Controller: {fileID: 9100000, guid: 7b2c22b5d0eafc751ab1e43ac4355b78, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -811,17 +811,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   inputBank: {fileID: 3829867929567954912}
   directionComponent: {fileID: 3829867929567954900}
-  pitchRangeMin: 0
-  pitchRangeMax: 0
-  yawRangeMin: 0
-  yawRangeMax: 0
+  pitchRangeMin: -90
+  pitchRangeMax: 90
+  yawRangeMin: -90
+  yawRangeMax: 90
   pitchGiveupRange: 0
   yawGiveupRange: 0
-  giveupDuration: 0
+  giveupDuration: 1
   raisedApproachSpeed: 720
   loweredApproachSpeed: 360
   smoothTime: 0.1
-  fullYaw: 0
+  fullYaw: 1
   aimType: 0
   enableAimWeight: 1
   UseTransformedAimVector: 0

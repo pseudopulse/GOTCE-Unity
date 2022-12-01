@@ -213,7 +213,7 @@ MonoBehaviour:
   bodyFlags: 2587
   rootMotionInMainState: 0
   mainRootSpeed: 0
-  baseMaxHealth: 40000
+  baseMaxHealth: 40
   baseRegen: 0
   baseMaxShield: 0
   baseMoveSpeed: 10
@@ -222,12 +222,12 @@ MonoBehaviour:
   baseDamage: 3
   baseAttackSpeed: 3
   baseCrit: 0
-  baseArmor: 0
+  baseArmor: 1000
   baseVisionDistance: Infinity
   baseJumpCount: 1
   sprintingSpeedMultiplier: 1.45
   autoCalculateLevelStats: 1
-  levelMaxHealth: 12000
+  levelMaxHealth: 12
   levelRegen: 0
   levelMaxShield: 0
   levelMoveSpeed: 0
@@ -275,7 +275,7 @@ MonoBehaviour:
   shield: 0
   barrier: 0
   magnetiCharge: 0
-  dontShowHealthbar: 0
+  dontShowHealthbar: 1
   globalDeathEventChanceCoefficient: 0
   body: {fileID: 721256023038877337}
 --- !u!114 &4959858136438613421
@@ -574,9 +574,9 @@ MonoBehaviour:
   idleStateMachine: []
   hurtState:
     _typeName: 
-  canBeHitStunned: 0
-  canBeStunned: 0
-  canBeFrozen: 0
+  canBeHitStunned: 1
+  canBeStunned: 1
+  canBeFrozen: 1
 --- !u!114 &3156707789793920446
 MonoBehaviour:
   m_ObjectHideFlags: 0

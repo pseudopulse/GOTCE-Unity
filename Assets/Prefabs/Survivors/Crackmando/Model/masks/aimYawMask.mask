@@ -1,0 +1,221 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: aimYawMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 0
+  - m_Path: Armature/Bone
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_hip_L
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_hip_L/bip_knee_L
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_hip_L/bip_knee_L/bip_knee_L_end
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_hip_R
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_hip_R/bip_knee_R
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_hip_R/bip_knee_R/bip_knee_R_end
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_head
+    m_Weight: 1
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_head/bip_head_end
+    m_Weight: 1
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L/bip_lowerArm_L
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L/bip_lowerArm_L/bip_hand_L
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L/bip_lowerArm_L/bip_hand_L/bip_hand_L_end
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L.001
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L.001/bip_lowerArm_L.001
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L.001/bip_lowerArm_L.001/bip_hand_L.001
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L.001/bip_lowerArm_L.001/bip_hand_L.001/bip_hand_L.001_end
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L.002
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L.002/bip_lowerArm_L.002
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L.002/bip_lowerArm_L.002/bip_hand_L.002
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L.002/bip_lowerArm_L.002/bip_hand_L.002/bip_hand_L.002_end
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L.003
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L.003/bip_lowerArm_L.003
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L.003/bip_lowerArm_L.003/bip_hand_L.003
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L.003/bip_lowerArm_L.003/bip_hand_L.003/bip_hand_L.003_end
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L.004
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L.004/bip_lowerArm_L.004
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L.004/bip_lowerArm_L.004/bip_hand_L.004
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L.004/bip_lowerArm_L.004/bip_hand_L.004/bip_hand_L.004_end
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L.005
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L.005/bip_lowerArm_L.005
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L.005/bip_lowerArm_L.005/bip_hand_L.005
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L.005/bip_lowerArm_L.005/bip_hand_L.005/bip_hand_L.005_end
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L.006
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L.006/bip_lowerArm_L.006
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L.006/bip_lowerArm_L.006/bip_hand_L.006
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L.006/bip_lowerArm_L.006/bip_hand_L.006/bip_hand_L.006_end
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L.007
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L.007/bip_lowerArm_L.007
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L.007/bip_lowerArm_L.007/bip_hand_L.007
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L.007/bip_lowerArm_L.007/bip_hand_L.007/bip_hand_L.007_end
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L.008
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L.008/bip_lowerArm_L.008
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L.008/bip_lowerArm_L.008/bip_hand_L.008
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_L.008/bip_lowerArm_L.008/bip_hand_L.008/bip_hand_L.008_end
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R/bip_lowerArm_R
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R/bip_lowerArm_R/bip_hand_R
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R/bip_lowerArm_R/bip_hand_R/bip_hand_R_end
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R.001
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R.001/bip_lowerArm_R.001
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R.001/bip_lowerArm_R.001/bip_hand_R.001
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R.001/bip_lowerArm_R.001/bip_hand_R.001/bip_hand_R.001_end
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R.002
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R.002/bip_lowerArm_R.002
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R.002/bip_lowerArm_R.002/bip_hand_R.002
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R.002/bip_lowerArm_R.002/bip_hand_R.002/bip_hand_R.002_end
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R.003
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R.003/bip_lowerArm_R.003
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R.003/bip_lowerArm_R.003/bip_hand_R.003
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R.003/bip_lowerArm_R.003/bip_hand_R.003/bip_hand_R.003_end
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R.004
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R.004/bip_lowerArm_R.004
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R.004/bip_lowerArm_R.004/bip_hand_R.004
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R.004/bip_lowerArm_R.004/bip_hand_R.004/bip_hand_R.004_end
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R.005
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R.005/bip_lowerArm_R.005
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R.005/bip_lowerArm_R.005/bip_hand_R.005
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R.005/bip_lowerArm_R.005/bip_hand_R.005/bip_hand_R.005_end
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R.006
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R.006/bip_lowerArm_R.006
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R.006/bip_lowerArm_R.006/bip_hand_R.006
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R.006/bip_lowerArm_R.006/bip_hand_R.006/bip_hand_R.006_end
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R.007
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R.007/bip_lowerArm_R.007
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R.007/bip_lowerArm_R.007/bip_hand_R.007
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R.007/bip_lowerArm_R.007/bip_hand_R.007/bip_hand_R.007_end
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R.008
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R.008/bip_lowerArm_R.008
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R.008/bip_lowerArm_R.008/bip_hand_R.008
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/bip_upperArm_R.008/bip_lowerArm_R.008/bip_hand_R.008/bip_hand_R.008_end
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/mouth.L
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/mouth.L/mouth.L_end
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/mouth.R
+    m_Weight: 0
+  - m_Path: Armature/Bone/bip_pelvis/bip_spine_0/bip_spine_1/mouth.R/mouth.R_end
+    m_Weight: 0
+  - m_Path: Armature/Bone/FeetIk.L
+    m_Weight: 0
+  - m_Path: Armature/Bone/FeetIk.L/bip_foot_L
+    m_Weight: 0
+  - m_Path: Armature/Bone/FeetIk.L/bip_foot_L/bip_toe_L
+    m_Weight: 0
+  - m_Path: Armature/Bone/FeetIk.L/bip_foot_L/bip_toe_L/bip_toe_L_end
+    m_Weight: 0
+  - m_Path: Armature/Bone/FeetIk.L/Knee.L
+    m_Weight: 0
+  - m_Path: Armature/Bone/FeetIk.L/Knee.L/Knee.L_end
+    m_Weight: 0
+  - m_Path: Armature/Bone/FeetIk.R
+    m_Weight: 0
+  - m_Path: Armature/Bone/FeetIk.R/bip_foot_R
+    m_Weight: 0
+  - m_Path: Armature/Bone/FeetIk.R/bip_foot_R/bip_toe_R
+    m_Weight: 0
+  - m_Path: Armature/Bone/FeetIk.R/bip_foot_R/bip_toe_R/bip_toe_R_end
+    m_Weight: 0
+  - m_Path: Armature/Bone/FeetIk.R/Knee.R
+    m_Weight: 0
+  - m_Path: Armature/Bone/FeetIk.R/Knee.R/Knee.R_end
+    m_Weight: 0
+  - m_Path: CrackedMandoArm
+    m_Weight: 0
+  - m_Path: CrackedMandoGlasses
+    m_Weight: 0
+  - m_Path: CrackedMandoMesh
+    m_Weight: 0
