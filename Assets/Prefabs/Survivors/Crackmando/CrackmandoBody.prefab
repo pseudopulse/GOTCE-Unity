@@ -595,7 +595,7 @@ MeshCollider:
   m_GameObject: {fileID: 1347845053943772088}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   m_Convex: 0
   m_CookingOptions: 30
@@ -1787,7 +1787,7 @@ MeshCollider:
   m_GameObject: {fileID: 3696967199241122653}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   m_Convex: 0
   m_CookingOptions: 30
@@ -2199,10 +2199,10 @@ CapsuleCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  m_Radius: 0
-  m_Height: 0.010458231
+  m_Radius: 0.32377183
+  m_Height: 1.4461542
   m_Direction: 1
-  m_Center: {x: -0.027289629, y: 0.54503834, z: -0.24739933}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!54 &3829867929567954906
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2234,8 +2234,8 @@ MonoBehaviour:
   CharacterController: {fileID: 3829867929567954903}
   Capsule: {fileID: 6007349499992085719}
   Rigidbody: {fileID: 3829867929567954906}
-  CapsuleRadius: 0
-  CapsuleHeight: 0.01045823
+  CapsuleRadius: 0.3237718
+  CapsuleHeight: 1.446154
   CapsuleYOffset: 0
   CapsulePhysicsMaterial: {fileID: 0}
   DetectDiscreteCollisions: 0
