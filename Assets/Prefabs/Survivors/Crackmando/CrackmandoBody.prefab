@@ -778,6 +778,38 @@ MonoBehaviour:
     transform: {fileID: 2645835698217192373}
   - name: Muzzle10
     transform: {fileID: 2062924744705946946}
+  - name: JetLeft
+    transform: {fileID: 8042747433121217713}
+  - name: JetRight
+    transform: {fileID: 1431750897727030496}
+  - name: Chest
+    transform: {fileID: 1669252985221335751}
+  - name: Pelvis
+    transform: {fileID: 4125297905738584519}
+  - name: FootL
+    transform: {fileID: 6590813910583966824}
+  - name: FootR
+    transform: {fileID: 1536306784002415686}
+  - name: Head
+    transform: {fileID: 945425711447328316}
+  - name: ThighL
+    transform: {fileID: 8946823809582006889}
+  - name: ThighR
+    transform: {fileID: 7162672723587992875}
+  - name: Stomach
+    transform: {fileID: 1895924253513859281}
+  - name: CalfL
+    transform: {fileID: 5103678624949093417}
+  - name: CalfR
+    transform: {fileID: 5815267907839839636}
+  - name: HandL
+    transform: {fileID: 6066939673121525419}
+  - name: HandR
+    transform: {fileID: 9025482595535076824}
+  - name: UpperArmL
+    transform: {fileID: 8042747433121217713}
+  - name: UpperArmR
+    transform: {fileID: 1431750897727030496}
 --- !u!114 &3853078913810426519
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2199,10 +2231,10 @@ CapsuleCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  m_Radius: 0.32377183
-  m_Height: 1.4461542
+  m_Radius: 0.4732499
+  m_Height: 2.0263767
   m_Direction: 1
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Center: {x: 0.04658687, y: 0, z: 0}
 --- !u!54 &3829867929567954906
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2234,8 +2266,8 @@ MonoBehaviour:
   CharacterController: {fileID: 3829867929567954903}
   Capsule: {fileID: 6007349499992085719}
   Rigidbody: {fileID: 3829867929567954906}
-  CapsuleRadius: 0.3237718
-  CapsuleHeight: 1.446154
+  CapsuleRadius: 0.4732499
+  CapsuleHeight: 2.026377
   CapsuleYOffset: 0
   CapsulePhysicsMaterial: {fileID: 0}
   DetectDiscreteCollisions: 0
@@ -2284,7 +2316,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cameraParams: {fileID: 11400000, guid: f327085e8596445d8b5b74a19ec454e2, type: 2}
-  cameraPivotTransform: {fileID: 3829867929567954904}
+  cameraPivotTransform: {fileID: 3818488098549139564}
   fovOverride: 0
   recoil: {x: 0, y: 0}
   dontRaycastToPivot: 0
@@ -2594,7 +2626,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3829867930830138927}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.005, y: 1.811, z: 0.1}
+  m_LocalPosition: {x: -0.047, y: 1.811, z: 0.1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 3829867929171758861}
@@ -3323,7 +3355,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &3818488098549139564
 Transform:
   m_ObjectHideFlags: 0
@@ -3332,7 +3364,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6199326778340082243}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.04, y: 1.773, z: 0.101}
+  m_LocalPosition: {x: 0, y: 1.33, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 3829867929567954904}
@@ -4650,7 +4682,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8923322975949885553}
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -1.258, z: 0}
   m_LocalScale: {x: 100, y: 100, z: 100}
   m_Children:
   - {fileID: 4696614945503148375}
@@ -4723,7 +4755,7 @@ PrefabInstance:
     - target: {fileID: 1546344077076554420, guid: ad1213667368efbf88c1675c73a061bb,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.592
+      value: -0.082
       objectReference: {fileID: 0}
     - target: {fileID: 1546344077076554420, guid: ad1213667368efbf88c1675c73a061bb,
         type: 3}
