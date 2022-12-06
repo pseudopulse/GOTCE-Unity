@@ -1,6 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoR2EditorKit", "RoR2EditorKit.csproj", "{92DA7CAA-FA7C-EBB9-8596-B042421DC991}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoR2EditorScripts", "RoR2EditorScripts.csproj", "{F087174A-6072-38E4-C5F0-EE63E3EC1597}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{9EBC36EF-4A92-10E3-B814-1EC8AAD49BF3}"
 EndProject
 Global
@@ -9,6 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92DA7CAA-FA7C-EBB9-8596-B042421DC991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92DA7CAA-FA7C-EBB9-8596-B042421DC991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92DA7CAA-FA7C-EBB9-8596-B042421DC991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92DA7CAA-FA7C-EBB9-8596-B042421DC991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F087174A-6072-38E4-C5F0-EE63E3EC1597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F087174A-6072-38E4-C5F0-EE63E3EC1597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F087174A-6072-38E4-C5F0-EE63E3EC1597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F087174A-6072-38E4-C5F0-EE63E3EC1597}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9EBC36EF-4A92-10E3-B814-1EC8AAD49BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9EBC36EF-4A92-10E3-B814-1EC8AAD49BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EBC36EF-4A92-10E3-B814-1EC8AAD49BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
