@@ -440,7 +440,7 @@ GameObject:
   m_Component:
   - component: {fileID: 668471473627348200}
   - component: {fileID: 7298238030901814585}
-  - component: {fileID: 6893166105204006463}
+  - component: {fileID: 2025870554896206209}
   m_Layer: 0
   m_Name: CrackedMandoMesh
   m_TagString: Untagged
@@ -586,7 +586,7 @@ SkinnedMeshRenderer:
     m_Center: {x: 0.00019476982, y: 0.0040362896, z: -0.011522592}
     m_Extent: {x: 0.005740785, y: 0.0057503013, z: 0.009782524}
   m_DirtyAABB: 0
---- !u!64 &6893166105204006463
+--- !u!64 &2025870554896206209
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -595,11 +595,11 @@ MeshCollider:
   m_GameObject: {fileID: 1347845053943772088}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 4
   m_Convex: 0
   m_CookingOptions: 30
-  m_Mesh: {fileID: 1502738292356309160, guid: 6386bdd330e44b81f92bf3acedce3334, type: 3}
+  m_Mesh: {fileID: 0}
 --- !u!1 &1493809400036035131
 GameObject:
   m_ObjectHideFlags: 0
@@ -2031,7 +2031,7 @@ Transform:
   m_GameObject: {fileID: 3829867929567954905}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 15, y: 15, z: 15}
   m_Children:
   - {fileID: 3829867929171758861}
   - {fileID: 3818488098549139564}
@@ -2231,10 +2231,10 @@ CapsuleCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  m_Radius: 0.4732499
-  m_Height: 2.0263767
+  m_Radius: 0.0033407733
+  m_Height: 0.006681547
   m_Direction: 1
-  m_Center: {x: 0.04658687, y: 0, z: 0}
+  m_Center: {x: 0.0005169849, y: 0.018181011, z: -0.00090374006}
 --- !u!54 &3829867929567954906
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2264,10 +2264,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CharacterController: {fileID: 3829867929567954903}
-  Capsule: {fileID: 6007349499992085719}
+  Capsule: {fileID: 3829867929567954901}
   Rigidbody: {fileID: 3829867929567954906}
-  CapsuleRadius: 0.4732499
-  CapsuleHeight: 2.026377
+  CapsuleRadius: 0.004189917
+  CapsuleHeight: 0.02182315
   CapsuleYOffset: 0
   CapsulePhysicsMaterial: {fileID: 0}
   DetectDiscreteCollisions: 0
@@ -2478,7 +2478,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   customName: Body
   initialStateType:
-    _typeName: EntityStates.GenericCharacterMain, RoR2, Version=0.0.0.0, Culture=neutral,
+    _typeName: EntityStates.SpawnTeleporterState, RoR2, Version=0.0.0.0, Culture=neutral,
       PublicKeyToken=null
   mainStateType:
     _typeName: EntityStates.GenericCharacterMain, RoR2, Version=0.0.0.0, Culture=neutral,
@@ -4202,10 +4202,10 @@ CapsuleCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 1
   m_Enabled: 1
-  m_Radius: 0.5562466
-  m_Height: 1.8579531
+  m_Radius: 0.0064944206
+  m_Height: 0.02240137
   m_Direction: 1
-  m_Center: {x: -0.02487123, y: 1.115577, z: -0.045985043}
+  m_Center: {x: 0.000026277703, y: 0.010746759, z: -0.0003295382}
 --- !u!114 &2637150820110893377
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4497,9 +4497,9 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8537417877544736226}
-  m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.048, y: 0.415, z: 0.407}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1669648856292904957}
   m_RootOrder: 4
@@ -4682,8 +4682,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8923322975949885553}
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: -1.258, z: 0}
-  m_LocalScale: {x: 100, y: 100, z: 100}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4696614945503148375}
   m_Father: {fileID: 1669648856292904957}
@@ -4749,13 +4749,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1546344077076554420, guid: ad1213667368efbf88c1675c73a061bb,
         type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1546344077076554420, guid: ad1213667368efbf88c1675c73a061bb,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1546344077076554420, guid: ad1213667368efbf88c1675c73a061bb,
+        type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1546344077076554420, guid: ad1213667368efbf88c1675c73a061bb,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.082
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1546344077076554420, guid: ad1213667368efbf88c1675c73a061bb,
         type: 3}
